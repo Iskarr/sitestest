@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <RouterProvider router={router} />
-      <h1>Hello world</h1>
+      <h1>water</h1>
     </div>
   );
 }
