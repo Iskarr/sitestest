@@ -20,6 +20,7 @@ function App() {
     <div>
       <RouterProvider router={router} />
       <h1>water</h1>
+      <h2>more stuff and water</h2>
     </div>
   );
 }
